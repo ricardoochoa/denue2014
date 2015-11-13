@@ -1,0 +1,12 @@
+Package: denue2014
+Type: Package
+Title: Mexican National Statistics Directory of Economic Units 2014
+Version: 0.1
+Date: 2015-11-11
+Author: Ricardo Ochoa, Ilse Avalos, Tania Guerrero
+Maintainer: Ricardo Ochoa <ochoasosaricardo@gmail.com>
+Description: As described by INEGI, in this version of the National Statistics As described by INEGI, in this version of the National Statistics Directory of Economic Units (DENUE), updated information (2014) is presented for active business in the country, including: identification data, location, economic activity and size of the business. Data of 4 million 926 thousand 061 businesses are presented. From these, 2 million 825 thousand 272 were already registered in the previous version of DENUE and 2 million 100 thousand 789 remaining were incorporated in this version. This package provides selected variables of the directory. 
+Depends: R (>= 2.10) 
+License: GPL-2
+NeedsCompilation: no
+Packaged: 2015-11-11 14:30:00 UTC
